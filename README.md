@@ -12,7 +12,7 @@ Python v3.6+ (because of f-strings) is required. This implementation depends onl
 
 ## Running
 
-For a details regarding input/output and options, please run the program with `-h` or `--help`. Generally, use of this program should be proceed as follows:
+For a details regarding input/output and options, please run the program with `-h` or `--help`. Generally, use of this program should proceed as follows:
 
 ```bash
 samtools view input.bam | python3 ./sam2covWig.py > output.coverage.wig
