@@ -1,0 +1,25 @@
+@SQ	SN:test0	LN:300
+@SQ	SN:test1	LN:200
+@SQ	SN:test2	LN:101
+@SQ	SN:test3	LN:100
+@SQ	SN:test4	LN:99
+@SQ	SN:test5	LN:50
+@SQ	SN:test6	LN:1
+read0.1	0	test0	2	*	150M	*	*	*	*	*
+read0.2	0	test0	150	*	150M	*	*	*	*	*
+read1.1	0	test1	1	*	100M	*	*	*	*	*
+read1.2	0	test1	100	*	100M	*	*	*	*	*
+read1.3	0	test1	101	*	100M	*	*	*	*	*
+read2.1	0	test2	1	*	100M	*	*	*	*	*
+read2.2	0	test2	2	*	100M	*	*	*	*	*
+read2.3	0	test2	3	*	99M	*	*	*	*	*
+read3.1	0	test3	1	*	100M	*	*	*	*	*
+read3.2	0	test3	2	*	99M	*	*	*	*	*
+read3.3	0	test3	3	*	98M	*	*	*	*	*
+read4.1	0	test4	1	*	99M	*	*	*	*	*
+read4.2	0	test4	2	*	98M	*	*	*	*	*
+read4.3	0	test4	3	*	97M	*	*	*	*	*
+read5.1	0	test5	1	*	50M	*	*	*	*	*
+read5.2	0	test5	2	*	49M	*	*	*	*	*
+read5.3	0	test5	3	*	48M	*	*	*	*	*
+read6.1	0	test6	1	*	1M	*	*	*	*	*

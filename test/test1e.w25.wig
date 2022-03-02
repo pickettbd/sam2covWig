@@ -1,0 +1,44 @@
+track type="wiggle_0" name="Coverage"
+fixedStep chrom=test0 start=1 step=25 span=25
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+fixedStep chrom=test1 start=1 step=25 span=25
+1
+1
+1
+2
+2
+2
+2
+2
+fixedStep chrom=test2 start=1 step=25 span=25
+3
+3
+3
+3
+2
+fixedStep chrom=test3 start=1 step=25 span=25
+3
+3
+3
+3
+fixedStep chrom=test4 start=1 step=25 span=25
+3
+3
+3
+3
+fixedStep chrom=test5 start=1 step=25 span=25
+3
+3
+fixedStep chrom=test6 start=1 step=25 span=25
+1
